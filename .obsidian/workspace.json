@@ -34,9 +34,22 @@
               "icon": "lucide-file",
               "title": "auberginenauflauf"
             }
+          },
+          {
+            "id": "5ced4bddcc924dfd",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "kartoffel-eintopf.md",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (kartoffel-eintopf)"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,9 +201,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab78d659b354d9c3",
+  "active": "5ced4bddcc924dfd",
   "lastOpenFiles": [
-    "kürbis-flan (vorspeise).md",
-    "auberginenauflauf.md"
+    "kartoffel-eintopf.md",
+    "ciabatta.md",
+    "hafer-cookies-glutenfrei.md",
+    "gulasch.md",
+    "auberginenauflauf.md",
+    "bohnen-mangold-feta-pfanne.md",
+    "kürbis-flan (vorspeise).md"
   ]
 }
