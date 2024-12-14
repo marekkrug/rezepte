@@ -1,6 +1,6 @@
 # Schnelles Rezept für Sommerrollen
 **Für 4 Personen**
-## Zutaten:
+## ![[vegane_sommerrollen_1.jpg]]Zutaten:
 - 15-20 Blätter Reispapier 
 ### Für die Füllung:
 - 5 Blätter Eisbergsalat
@@ -27,3 +27,4 @@ Als letztes heißes Wasser in einen großen, tiefen Teller geben und die Reispap
 *Rezept von Marek.*
 Inspiration von diesem Reddit-Post:
 https://www.reddit.com/r/keinstresskochen/s/wBFk0Fhg6X
+![[vegane_sommerrollen_2.jpg]]![[vegane_sommerrollen_3.jpg]]

@@ -34,6 +34,30 @@
             }
           },
           {
+            "id": "f61acb9cf0d7714b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "pictures/veganer_käsekuchen_1.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "veganer_käsekuchen_1"
+            }
+          },
+          {
+            "id": "e3034680a57071b4",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "pictures/gullasch.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "gullasch"
+            }
+          },
+          {
             "id": "ab78d659b354d9c3",
             "type": "leaf",
             "state": {
@@ -61,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -80,7 +104,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "byModifiedTime"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -92,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kartoffel",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,8 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "43e33c17e424ba30",
@@ -214,15 +237,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7c28afffd5492c46",
+  "active": "e3034680a57071b4",
   "lastOpenFiles": [
-    "Mareks Rezeptebuch.pdf",
-    "kartoffelknödel mit pilzsauce vegan.md",
+    "pictures/Spaghetti_agli_e_olio_1.jpg",
+    "pictures/Spaghetti_agli_e_olio_2.jpeg",
+    "spaghetti-aglio-e-olio-con-peperoncino.md",
+    "pictures/veganer_käsekuchen_1.jpg",
+    "veganer käsekuchen.md",
+    "auberginenauflauf.md",
+    "tortilla-wraps.md",
     "gulasch.md",
+    "sommerrollen.md",
+    "kartoffelknödel mit pilzsauce vegan.md",
     "bohnen-mangold-feta-pfanne.md",
+    "pictures/bohnen-mangold-feta-pfanne-original-rezept.png",
+    "pictures/bohnen-mangold-feta-pfanne.png",
+    "pictures/mangold.png",
+    "pictures/Pasted image.png",
+    "pictures/auberginenauflauf_3.jpg",
+    "pictures/auberginenauflauf_2.jpg",
+    "pictures/auberginenauflauf_1.jpg",
+    "pictures/gullasch.jpg",
+    "pictures/gullaschjpg",
+    "todo - die rezepte müssen noch richtig schön formatiert werden.md",
+    "pictures",
+    "spätzle-vegan.md",
+    "Mareks Rezeptebuch.pdf",
     "soja-marinade.md",
     "kartoffel-eintopf.md",
-    "auberginenauflauf.md",
     "ciabatta.md",
     "hafer-cookies-glutenfrei.md",
     "kürbis-flan (vorspeise).md"

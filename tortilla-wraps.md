@@ -1,6 +1,7 @@
 # Tortilla-Wraps
 für 4 Personen
 Rezept entwickelt von murmeldin
+![[tortilla-wraps.jpg]]
 ## Zutaten:
 ### Rohe Zutaten
 - ~ 150-200g Bohnen (aus der Dose, abtropfgewicht)

@@ -1,5 +1,6 @@
 # Spaghetti aglio e olio con peperoncino
 von Häcker (cccb)
+![[Spaghetti_agli_e_olio_2.jpeg]]
 ### Vorwort
 
 Die Idee dieses Rezepts ist es, das Olivenöl durch die Stärke im Nudelwasser mit diesem zu emulgieren. Dadurch entsteht eine wunderschöne Sauce, die sich toll an die Nudeln anklebt und diese komplett mit Geschmack versorgt. Die Petersilie poppt dann so richtig und macht das ganze frisch und knackig. Chilis nach Geschmack. Ich mag es schärfer, aber jeder ist seines glückes Schmied — Häcker
@@ -25,3 +26,4 @@ Die Nudeln mit Salz und wenig Wasser kochen, damit ein möglichst stärkehaltige
 Zum Schluss die übrigen Petersilienblätter unterheben. Eventuell noch mit Salz und anderem würzen.
 
 Eat and enjoy :)
+![[Spaghetti_agli_e_olio_1.jpg]]

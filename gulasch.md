@@ -1,6 +1,8 @@
 # Gulasch
-## Zutaten für 4 Portionen
-abgewandelt von murmeldin
+**Zutaten für 4 Portionen**
+![[gullasch.jpg]]
+*abgewandelt von murmeldin*
+## Zutaten
 * 160g Sojageschnetzeltes
 * 50g Tomatenmark
 * 400 g Paprika
