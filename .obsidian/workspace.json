@@ -11,14 +11,12 @@
             "id": "7a89cc31fa6835f1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "auberginenauflauf.md",
-                "mode": "source",
-                "source": false
+                "file": "Mareks Rezeptebuch.pdf"
               },
-              "icon": "lucide-file",
-              "title": "auberginenauflauf"
+              "icon": "lucide-file-text",
+              "title": "Mareks Rezeptebuch"
             }
           },
           {
@@ -48,8 +46,7 @@
               "title": "Diff View (kartoffel-eintopf)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +65,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTime"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -80,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "kartoffel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -201,14 +198,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5ced4bddcc924dfd",
+  "active": "7a89cc31fa6835f1",
   "lastOpenFiles": [
+    "gulasch.md",
+    "Mareks Rezeptebuch.pdf",
+    "bohnen-mangold-feta-pfanne.md",
+    "soja-marinade.md",
     "kartoffel-eintopf.md",
+    "auberginenauflauf.md",
     "ciabatta.md",
     "hafer-cookies-glutenfrei.md",
-    "gulasch.md",
-    "auberginenauflauf.md",
-    "bohnen-mangold-feta-pfanne.md",
     "kürbis-flan (vorspeise).md"
   ]
 }
