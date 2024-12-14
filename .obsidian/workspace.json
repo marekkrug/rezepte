@@ -49,12 +49,14 @@
             "id": "e3034680a57071b4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "pictures/gullasch.jpg"
+                "file": "spaghetti-aglio-e-olio-con-peperoncino.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "gullasch"
+              "icon": "lucide-file",
+              "title": "spaghetti-aglio-e-olio-con-peperoncino"
             }
           },
           {
@@ -239,6 +241,7 @@
   },
   "active": "e3034680a57071b4",
   "lastOpenFiles": [
+    "pictures/gullasch.jpg",
     "pictures/Spaghetti_agli_e_olio_1.jpg",
     "pictures/Spaghetti_agli_e_olio_2.jpeg",
     "spaghetti-aglio-e-olio-con-peperoncino.md",
@@ -257,7 +260,6 @@
     "pictures/auberginenauflauf_3.jpg",
     "pictures/auberginenauflauf_2.jpg",
     "pictures/auberginenauflauf_1.jpg",
-    "pictures/gullasch.jpg",
     "pictures/gullaschjpg",
     "todo - die rezepte müssen noch richtig schön formatiert werden.md",
     "pictures",
