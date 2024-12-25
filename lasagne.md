@@ -30,16 +30,22 @@
 - Topf
 - (vorzugsweise Eckige) Auflaufform
 ### Zubereitung
+
 **Topf 1**
+
 - Den Spinat auftauen (wenn er tiefgefroren ist) und mit der halben Menge Knoblauch, Pfeffer, Salz und Muskat andünsten
+
 **Topf 2**
+
 - Die Pilze, Paprika, Aubergine und Zucchini klein schneiden. Zuerst die Auberginen mit viel Olivenöl anbraten, danach die anderen Gemüse dazu geben und dünsten
 - Die andere Hälfte des Knoblauchs dazu geben und mitdünsten 
 - Die gehackten Tomaten dazugeben und viel Rosmarin und Thymian dazugeben, das davor gemörsert oder gehackt wurde
 - Ordentlich Wasser und evtl. Tomatenmark dazu geben
 - 2-4 TL Gemüsebrühe dazugeben (abschmecken)
 - Pfeffer, Salz und Chili dazugeben und abschmecken
+
 **Auflaufform**
+
 - Den Ofen auf 170 °C Umluft vorheizen
 - In einer Auflaufform den Boden mit Olivenöl bedecken, die Lasagneplatten auslegen und den Spinat darauflegen. Danach das Gemüse mit einem Schaumlöffel darauf legen, damit noch Flüssigkeit übrig bleibt
 - Den Schmand mit etwas Milch verlängern
