@@ -26,4 +26,4 @@ Die Nudeln mit Salz und wenig Wasser kochen, damit ein möglichst stärkehaltige
 Zum Schluss die übrigen Petersilienblätter unterheben. Eventuell noch mit Salz und anderem würzen.
 
 Eat and enjoy :)
-![[Spaghetti_agli_e_olio_1.jpg]]
+![Ein Herd mit verschiedenen Töpfen voller Spaghetti aglio e olio](pictures/Spaghetti_agli_e_olio_1.jpg)
