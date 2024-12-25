@@ -1,4 +1,6 @@
 ## Lasagne für 6 Personen
+![Eine Auflaufform, die Gemüselasagne enthält](pictures/gemüselasagne.jpg)
+
 ### Zutaten:
 #### Rohe Zutaten
 - 1 Aubergine
