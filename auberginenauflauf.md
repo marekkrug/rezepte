@@ -1,6 +1,6 @@
 # Auberginenauflauf
 Für 4 Personen
-![[auberginenauflauf_1.jpg]]
+![Eine Auflaufform mit Auberginenauflauf auf einem Tisch, auf dem sich ebenfalls verschiedene Teller mit dem Gericht befinden](pictures/auberginenauflauf_1.jpg)
 ## Zutaten:
 - 4 mittlere Auberginen
 - 750 ml Tomatensauce
@@ -15,5 +15,5 @@ Für 4 Personen
 - Die Auberginenscheiben in einer Pfanne mit Öl leicht anbraten, nicht zu heiß. Herausnehmen, bevor sie durch sind, sollen leicht braun sein
 - Eine Auflaufform abwechselnd mit Aubergine- und Tomatensauce-Schichten belegen. Oben mit einer dünnen Schicht Mozzarella-Käse belegen.
 - Den Ofen auf 180 °C vorheizen, für 30–40 min im Ofen backen lassen
-<f
-![[auberginenauflauf_2.jpg]]![[auberginenauflauf_3.jpg]]
+
+![Eine Küche mit vielen ausgelegten Auberginen, die gerade gesalzen werden](pictures/auberginenauflauf_2.jpg)![Eine Auflaufform mit Auberginenauflauf](pictures/auberginenauflauf_3.jpg)
