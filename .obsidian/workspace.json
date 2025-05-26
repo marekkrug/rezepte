@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tortilla-wraps.md",
+                "file": "gulasch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tortilla-wraps"
+              "title": "gulasch"
+            }
+          },
+          {
+            "id": "1a7781b01e1b542a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "todo - die rezepte müssen noch richtig schön formatiert werden.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "todo - die rezepte müssen noch richtig schön formatiert werden"
             }
           },
           {
@@ -84,11 +98,12 @@
                 "file": "kartoffel-eintopf.md",
                 "staged": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (kartoffel-eintopf)"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +122,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -119,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "panc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -227,7 +243,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,14 +257,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a89cc31fa6835f1",
+  "active": "00ff6a461abc9a63",
   "lastOpenFiles": [
+    "salat.md",
+    "gulasch.md",
+    "tortilla-wraps.md",
     "veganer käsekuchen.md",
+    "pictures/tortilla-wraps.jpg",
+    "kartoffelknödel mit pilzsauce vegan.md",
+    "kartoffeln-grundrezept.md",
     "lasagne.md",
     "auberginenauflauf.md",
     "README.md",
     "spaghetti-aglio-e-olio-con-peperoncino.md",
-    "kartoffelknödel mit pilzsauce vegan.md",
     "PXL_20241224_181210431.jpg",
     "PXL_20241224_181210431 1.jpg",
     "pictures/gemüselasagne.jpg",
@@ -258,11 +280,8 @@
     "pictures/Spaghetti_agli_e_olio_1.jpg",
     "pictures/Spaghetti_agli_e_olio_2.jpeg",
     "pictures/veganer_käsekuchen_1.jpg",
-    "tortilla-wraps.md",
-    "gulasch.md",
     "sommerrollen.md",
     "bohnen-mangold-feta-pfanne.md",
-    "pictures/bohnen-mangold-feta-pfanne-original-rezept.png",
     "pictures/gullaschjpg",
     "todo - die rezepte müssen noch richtig schön formatiert werden.md",
     "pictures",
